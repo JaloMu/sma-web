@@ -1,7 +1,7 @@
 {
-  "name": "sma",
+  "name": "sma-web",
   "version": "1.0.0",
-  "description": "sma web",
+  "description": "web",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "#"
+    "url": "https://github.com/JaloMu/sma-web.git"
   },
   "author": "Jalo.Mu",
   "license": "MIT",
